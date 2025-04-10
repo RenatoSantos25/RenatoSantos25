@@ -1,8 +1,8 @@
 ## Bem vindo! Eu sou Renato dos Santos
 
-- 👨‍🎓  Sou Técnico em Análise Desenvolvimento de Sistemas.
+- 👨‍🎓  Técnico em Análise Desenvolvimento de Sistemas.
+- 🔨  Técnico em manutenção e suporte em Hardware
 - 💻  Cursando graduação em Análise em Desenvolvimento de Sistemas.
-- 🔨  Cursando Técnico em manutenção e suporte em Hardware
 
 <div align="center">
 <a href="https://github.com/RenatoSantos25/">
